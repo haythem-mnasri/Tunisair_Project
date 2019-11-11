@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.boot.test.context.SpringBootTest"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.EnableEurekaClient"/>
+<fullyQualifiedTypeName name="java.nio.channels.NetworkChannel"/>
+<fullyQualifiedTypeName name="com.tunisair.microservice.avionservice.AvionService"/>
+<fullyQualifiedTypeName name="com.tunisair.microservice.ingenieurservice.IngenieurService"/>
+<fullyQualifiedTypeName name="com.tunisair.microservice.piloteservice.PiloteService"/>
+<fullyQualifiedTypeName name="com.tunisair.microservice.avionservice.AvionRepository"/>
+<fullyQualifiedTypeName name="com.tunisair.microservice.avionservice.Avion"/>
+<fullyQualifiedTypeName name="com.tunisair.microservice.ingenieurservice.IngenieurRepository"/>
+<fullyQualifiedTypeName name="com.tunisair.microservice.ingenieurservice.Ingenieur"/>
+<fullyQualifiedTypeName name="com.tunisair.microservice.chef_escaleservice.Chef_EscaleApplication"/>
+<fullyQualifiedTypeName name="com.tunisair.microservice.chef_escaleservice.Chef_Escale"/>
+<fullyQualifiedTypeName name="com.tunisair.microservice.chef_escaleservice.ChefEscaleRepository"/>
+<fullyQualifiedTypeName name="com.tunisair.microservice.piloteservice.PiloteApplication"/>
+<fullyQualifiedTypeName name="com.tunisair.microservice.piloteservice.Pilote"/>
+<fullyQualifiedTypeName name="com.tunisair.microservice.piloteservice.PiloteRepository"/>
+</qualifiedTypeNameHistroy>

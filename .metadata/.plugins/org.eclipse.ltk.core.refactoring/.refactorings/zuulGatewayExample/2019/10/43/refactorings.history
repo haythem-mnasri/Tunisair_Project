@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;filters&apos; to &apos;Zuul/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;zuulGatewayExample&apos;&#x0D;&#x0A;- Destination element: &apos;Zuul/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;zuulGatewayExample/src/main/java/filters&apos;" description="Copy package" destination="=Zuul/src\/main\/java" element1="/src\/main\/java&lt;filters" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1571645626522" version="1.0"/>
+</session>

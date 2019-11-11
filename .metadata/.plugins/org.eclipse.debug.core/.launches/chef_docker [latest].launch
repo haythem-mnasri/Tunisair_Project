@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.linuxtools.docker.ui.buildDockerImageLaunchConfigurationType">
+<stringAttribute key="dockerConnection" value="&lt;unnamed&gt;"/>
+<stringAttribute key="dockerfileName" value="Dockerfile"/>
+<stringAttribute key="repoName" value="chef_docker"/>
+<stringAttribute key="sourcePathLocation" value="/Chef_Escale"/>
+<booleanAttribute key="sourcePathWorkspaceRelativeLocation" value="true"/>
+</launchConfiguration>

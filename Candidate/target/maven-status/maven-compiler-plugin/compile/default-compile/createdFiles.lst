@@ -1,0 +1,5 @@
+com\tunisair\microservice\avionservice\Avion.class
+com\tunisair\microservice\avionservice\AvionRestAPI.class
+com\tunisair\microservice\avionservice\AvionApplication.class
+com\tunisair\microservice\avionservice\AvionService.class
+com\tunisair\microservice\avionservice\AvionRepository.class
