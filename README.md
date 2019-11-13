@@ -7,6 +7,7 @@ This example demonstrates the main features of the Zuul API gateway integrated i
 As an accademique project will developed a full stack application using React JS and Spring Boot.
 
 
+
 • Service auto registration via eureka
 
 • Service registration by address
@@ -27,9 +28,14 @@ Technology Used:
 • Docker
 
 
+
 Starting the projct
 
+
 npm i 
+
 npm start node js
+
 run Zuul
+
 npm start React Js
