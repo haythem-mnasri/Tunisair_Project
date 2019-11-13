@@ -19,23 +19,26 @@ As an accademique project will developed a full stack application using React JS
 
 
 Technology Used:
+
 • Spring boot 1.5.3.RELEASE
+
 • Eureka Service Discovery Client
+
 • Zuul API Gateway
+
 • Node JS
+
 • React JS
+
 • MongoDb
+
 • Docker
 
 
 
 Starting the projct
 
-
 npm i 
-
 npm start node js
-
 run Zuul
-
 npm start React Js
