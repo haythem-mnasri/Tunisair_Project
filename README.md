@@ -8,6 +8,7 @@ As an accademique project will developed a full stack application using React JS
 
 
 
+
 • Service auto registration via eureka
 
 • Service registration by address
@@ -18,7 +19,9 @@ As an accademique project will developed a full stack application using React JS
 
 
 
+
 Technology Used:
+
 
 
 • Spring boot 1.5.3.RELEASE
@@ -34,6 +37,7 @@ Technology Used:
 • MongoDb
 
 • Docker
+
 
 
 
